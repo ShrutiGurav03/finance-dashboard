@@ -1,16 +1,32 @@
-# React + Vite
+💰 Finance Dashboard
+A modern and responsive **Finance Dashboard Web Application** built using React and Vite.
+This project helps users track financial data with a clean UI and fast performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+- 📊 Interactive dashboard UI
+- 💡 Clean and modern design
+- ⚡ Fast performance using Vite
+- 📱 Responsive for all devices
+- 🔄 Real-time updates (if implemented)
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+-Frontend: React.js
+- Build Tool: Vite
+- Styling: CSS / Tailwind (update if used)
+- Version Control: Git & GitHub
+  
+📂 Project Structure
+-`src/` → Main source code
+- `components/` → UI components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+▶️ How to Run Locally
+git clone https://github.com/ShrutiGurav03/finance-dashboard.git
+cd finance-dashboard
+npm install
+npm run dev
 
-## React Compiler
+🌐 Live Demo
+https://finance-dashboard-orcin-phi.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⭐ Note
+This project is created for learning and showcasing frontend development skills.
